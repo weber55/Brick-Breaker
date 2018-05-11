@@ -1,4 +1,4 @@
-# Project Submission
+# Brick Breaker
 
 Team Member A: Samantha Carlile (418)
 Team Member B: Brian Weber (356)
